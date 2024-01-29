@@ -611,6 +611,7 @@ header {
   color: #535353;
   font-size: 1.6rem;
   line-height: normal;
+  font-weight: 500;
   margin-top: 18px;
 }
 .footer .list li:first-child {
